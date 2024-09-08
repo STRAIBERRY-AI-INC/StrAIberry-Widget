@@ -1,0 +1,45 @@
+<resources>
+
+    <style name="Widget.Widget.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style>
+
+    <style name="Widget.Widget.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="TextViewWhite12sp" >
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextViewWhite10sp">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextViewWhite18sp">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextViewPrimary12sp">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/light_blue_900</item>
+    </style>
+    <style name="TextViewPrimary14sp" >
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/light_blue_900</item>
+    </style>
+    <style name="TextViewPrimary18sp">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/light_blue_900</item>
+    </style>
+    <style name="TextViewPrimary27sp">
+        <item name="android:textSize">27sp</item>
+        <item name="android:textColor">@color/light_blue_900</item>
+    </style>
+    <style name="TextViewPrimary21sp">
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">@color/light_blue_900</item>
+    </style>
+</resources>

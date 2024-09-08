@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Brushing Widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Have fun brushing your teeth</string>
+    <string name="whitening_icon_description">Whitening icon</string>
+    <string name="daily_goal">Daily Goal</string>
+    <string name="brush_now">Brush Now</string>
+    <string name="brush_now_button">Brush now button</string>
+    <string name="last_brush">Last Brush:</string>
+    <string name="brushing_count">%s/%s</string>
+    <string name="brushing_your_upper_jaw">Brushing your upper jaw</string>
+    <string name="brushing_upper_jaw_animation">brushing upper jaw animation</string>
+    <string name="brushing_your_lower_jaw">Brushing your lower jaw</string>
+    <string name="have_fun_brushing_your_teeth">Have fun brushing\nyour teeth</string>
+    <string name="have_fun_brushing_your_teeth_">Have fun brushing your teeth</string>
+
+    <string name="done">done</string>
+    <string name="last_brushing">Last Brushing:</string>
+    <string name="date">Date</string>
+    <string name="today">Today</string>
+    <string name="straiberry">StrAIberry</string>
+    <string name="daily_goal_setting">Daily Goal setting</string>
+    <string name="brushing_per_day">Brushing per day</string>
+    <string name="contact_us">Contact us</string>
+    <string name="pooya_straiberry_com">pooya@straiberry.com</string>
+    <string name="straiberry_website">straiberry website</string>
+    <string name="straiberry_instagram">straiberry instagram</string>
+    <string name="copyright_straiberry_com_all_rights_reserved">Copyright © StrAIberry.com\nAll rights reserved.</string>
+    <string name="https_straiberry_com">https://straiberry.com/</string>
+    <string name="straiberry_instagram_profile">https://instagram.com/straiberryapp?igshid=NTc4MTIwNjQ2YQ==</string>
+    <string name="sorry_you_don_t_have_any_mail_app">Sorry...You don\'t have any mail app</string>
+    <string name="no_brushing_yet">No brushing yet</string>
+</resources>
