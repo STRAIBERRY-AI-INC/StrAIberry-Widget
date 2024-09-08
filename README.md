@@ -12,8 +12,8 @@
     <br />
     <a href="https://www.straiberry.com/">Straiberry</a>
     ·
-    <a href="https://github.com/STRAIBERRY-AI-INC/Straiberry-charts/issues">Report Bug</a>
+    <a href="https://github.com/STRAIBERRY-AI-INC/StrAIberry-Widget/issues">Report Bug</a>
     ·
-    <a href="https://github.com/STRAIBERRY-AI-INC/Straiberry-charts/issues">Request Feature</a>
+    <a href="https://github.com/STRAIBERRY-AI-INC/StrAIberry-Widget/issues">Request Feature</a>
   </p>
 </div>
