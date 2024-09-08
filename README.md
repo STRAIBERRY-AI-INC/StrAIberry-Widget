@@ -2,10 +2,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="image/1.png" alt="Straiberry">
+    <img src="1.png" alt="Straiberry">
   </a>
 
-  <h1 align="center">Straiberry Charts</h1>
+  <h1 align="center">Straiberry Widget</h1>
 
   <p align="center">
     Make brushing more fun
